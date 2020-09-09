@@ -1,0 +1,1 @@
+This file has been created within the 0x00 directory, as part of Project 0x00.
