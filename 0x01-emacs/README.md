@@ -1,0 +1,1 @@
+Project 0x01 is all about emacs -- learning emacs commands, and how to use emacs as an editor.
